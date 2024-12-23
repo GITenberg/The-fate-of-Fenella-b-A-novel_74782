@@ -211,7 +211,12 @@ contributor:
     gutenberg_agent_id: '37666'
     url: http://www.gutenberg.org/2009/agents/37666
     wikipedia: http://en.wikipedia.org/wiki/Frances_Eleanor_Trollope
+covers:
+- cover_type: archival
+  image_path: 74782-h/images/coversmall.jpg
 description: 'Wikipedia page on this work: https://en.wikipedia.org/wiki/The_Fate_of_Fenella'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74782#The-fate-of-Fenella-b-A-novel
 gutenberg_issued: '2024-11-23'
 gutenberg_type: Text
 identifiers:
